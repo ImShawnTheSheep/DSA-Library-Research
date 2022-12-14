@@ -14,3 +14,7 @@ collection.insert_one({
     'loglocation': 'Rothlener Bldg',
     'time': 1030
 })
+
+cursor = collection.find_one({})
+
+print(cursor)
