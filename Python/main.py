@@ -1,5 +1,5 @@
-import pymongo
 import database as db
+
 
 # This is the main function
 if __name__ == "__main__":
