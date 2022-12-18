@@ -1,0 +1,302 @@
+[{
+  "_id": {
+    "$oid": "639ec00c3ecd89a903064601"
+  },
+  "name": "ELDWIN DAVE BAJAN",
+  "studnum": "2021-00352-CM-1",
+  "tag": "student"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a903064602"
+  },
+  "name": "KYLA KEITH BALEDOYA",
+  "studnum": "2021-00010-CM-0",
+  "tag": "student"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a903064603"
+  },
+  "name": "JEFFERSON BALLERA",
+  "studnum": "",
+  "tag": "visitor"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a903064604"
+  },
+  "name": "JOHN PAULO BATTUNG",
+  "studnum": "2021-00197-CM-0",
+  "tag": "student"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a903064605"
+  },
+  "name": "RICHARD CABACUNGAN",
+  "studnum": "2021-00185-CM-0",
+  "tag": "student"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a903064606"
+  },
+  "name": "JOHN LOYD CABRAL",
+  "studnum": "",
+  "tag": "visitor"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a903064607"
+  },
+  "name": "JAMIE JONES CERA",
+  "studnum": "2021-00186-CM-0",
+  "tag": "student"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a903064608"
+  },
+  "name": "JOSHUA CHUA",
+  "studnum": "",
+  "tag": "visitor"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a903064609"
+  },
+  "name": "ROZZELLE DE OMANIA",
+  "studnum": "2021-00004-CM-0",
+  "tag": "student"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a90306460a"
+  },
+  "name": "DANIEL DEL ROSARIO",
+  "studnum": "2021-00005-CM-0",
+  "tag": "student"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a90306460b"
+  },
+  "name": "SHAINA MAE DOLOROSA",
+  "studnum": "2021-00002-CM-0",
+  "tag": "student"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a90306460c"
+  },
+  "name": "KIRSTEN CHARLES DOMINGO",
+  "studnum": "2021-00007-CM-0",
+  "tag": "student"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a90306460d"
+  },
+  "name": "KRIS EDURIA",
+  "studnum": "",
+  "tag": "visitor"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a90306460e"
+  },
+  "name": "RENZ PAUL FABABEIR",
+  "studnum": "2021-00407-CM-0",
+  "tag": "student"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a90306460f"
+  },
+  "name": "KEEPERJHOI FLORESCA",
+  "studnum": "2021-00213-CM-0",
+  "tag": "student"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a903064610"
+  },
+  "name": "MARIEL KAYE GARCIA",
+  "studnum": "2021-00373-CM-0",
+  "tag": "student"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a903064611"
+  },
+  "name": "CARLO GUTIERREZ",
+  "studnum": "",
+  "tag": "visitor"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a903064612"
+  },
+  "name": "SHAWN MICHAEL JUMAWAN",
+  "studnum": "2021-00363-CM-0",
+  "tag": "student"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a903064613"
+  },
+  "name": "KIMBERLY MAE KHO",
+  "studnum": "",
+  "tag": "visitor"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a903064614"
+  },
+  "name": "MAVERICK KO",
+  "studnum": "2021-00175-CM-0",
+  "tag": "student"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a903064615"
+  },
+  "name": "KOLEN JAMES GREG LOZOANO",
+  "studnum": "2021-00208-CM-0",
+  "tag": "student"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a903064616"
+  },
+  "name": "MAUI MARK DANIEL LOPEZ",
+  "studnum": "2021-00348-CM-0",
+  "tag": "student"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a903064617"
+  },
+  "name": "SILVESTRE MATILLANO JR",
+  "studnum": "2021-00011-CM-0",
+  "tag": "student"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a903064618"
+  },
+  "name": "LEVI MATUDAN",
+  "studnum": "2021-00218-CM-0",
+  "tag": "student"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a903064619"
+  },
+  "name": "KYLE MENDOZA",
+  "studnum": "2021-00008-CM-0",
+  "tag": "student"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a90306461a"
+  },
+  "name": "JUSTINE MAE MILAN",
+  "studnum": "2021-00009-CM-0",
+  "tag": "student"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a90306461b"
+  },
+  "name": "RAEZEL KAYENNE NU�EZ",
+  "studnum": "2021-00177-CM-0",
+  "tag": "student"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a90306461c"
+  },
+  "name": "FAM ELLA OROSCO",
+  "studnum": "2021-00215-CM-0",
+  "tag": "student"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a90306461d"
+  },
+  "name": "AARON PADRE-E",
+  "studnum": "2021-00325-CM-0",
+  "tag": "student"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a90306461e"
+  },
+  "name": "RAFAEL JOAR PARUNGAO",
+  "studnum": "2021-00027-CM-0",
+  "tag": "student"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a90306461f"
+  },
+  "name": "ZOE THEA PAULO",
+  "studnum": "2021-00171-CM-0",
+  "tag": "student"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a903064620"
+  },
+  "name": "ERICA PILI",
+  "studnum": "2021-00006-CM-0",
+  "tag": "student"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a903064621"
+  },
+  "name": "JARRELL REYES",
+  "studnum": "2021-00217-CM-0",
+  "tag": "student"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a903064622"
+  },
+  "name": "FRANCO LUIS ROSEL",
+  "studnum": "2021-00026-CM-0",
+  "tag": "student"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a903064623"
+  },
+  "name": "JOHN FREDERICK SABONDO",
+  "studnum": "2021-00165-CM-0",
+  "tag": "student"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a903064624"
+  },
+  "name": "SERGIUS PAULO SANGREO",
+  "studnum": "2021-15382-MN-0",
+  "tag": "student"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a903064625"
+  },
+  "name": "JOHN BENJAMIN SARANGAY",
+  "studnum": "2021-00324-CM-0",
+  "tag": "student"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a903064626"
+  },
+  "name": "SHANE STEVEN SERVAS",
+  "studnum": "2021-00204-CM-0",
+  "tag": "student"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a903064627"
+  },
+  "name": "CEEJAY SILVERIO",
+  "studnum": "2019-00261-CM-0",
+  "tag": "student"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a903064628"
+  },
+  "name": "ROCZPEN STO. DOMINGO",
+  "studnum": "2021-00207-CM-0",
+  "tag": "student"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a903064629"
+  },
+  "name": "DANDREB TONGA",
+  "studnum": "2021-00219-CM-0",
+  "tag": "student"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a90306462a"
+  },
+  "name": "EARL JERUEL TORIBIO",
+  "studnum": "2021-00216-CM-0",
+  "tag": "student"
+},{
+  "_id": {
+    "$oid": "639ec00c3ecd89a90306462b"
+  },
+  "name": "JULIANNE DOMINIQUE TORRES",
+  "studnum": "2021-00214-CM-0",
+  "tag": "student"
+}]
