@@ -1,9 +1,10 @@
-import database
+import pymongo
+import database as db
 
 # This is the main function
 if __name__ == "__main__":
 
-    variable = 'string'
-    
-    print(variable)
-    
+    cursor = db.find('tag', 'visitor')
+
+    for cursors in cursor:
+        print(cursors['name'])
