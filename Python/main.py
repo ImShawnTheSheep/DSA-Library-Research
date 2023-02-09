@@ -9,4 +9,4 @@ if __name__ == "__main__":
     for cursors in cursor:
         print(cursors['name'])
 
-    print("Hello World")
+    #print("Hello World")
