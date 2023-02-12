@@ -7,3 +7,5 @@ temp/
 #ignore __pycache__ folder
 **/__pycache__
 **/DataSet
+
+*db.*
