@@ -48,6 +48,7 @@ def get_patient_info(patient):
         "-------------- Patient Information -------------\n",
         "Name:     ", p.name, "(", p.tag, ")" + '\n',
         "Location: ", p.location + '\n',
+        "Date:     ", cursors['date'] + '\n',
         "Time:     ", p.login, p.logout + '\n'
     )
 
@@ -68,6 +69,7 @@ def close_contact(name, location, time_in, time_out):
                 "# ", count, " --------------------------------------\n",
                 "Name:     ", cursors['name'], "(", cursors['tag'], ")" + '\n', 
                 "Location: ", cursors['location'] + '\n',
+                "Date:     ", cursors['date'] + '\n',
                 "Time:     ", cursors['login'], cursors['logout'] + '\n'
             )
 
@@ -75,9 +77,8 @@ def close_contact(name, location, time_in, time_out):
 
 if __name__ == '__main__':
     os.system('cls')
-    bool = True
 
-    while bool:
+    while True:
         patient = input("Enter patient's name: ")
         check = dataset.find_one({'name': patient})
 
@@ -93,5 +94,5 @@ if __name__ == '__main__':
             os.system('cls')
             continue
         else:
-            bool = False
+            break
             
