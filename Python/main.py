@@ -4,7 +4,7 @@ from pymongo import MongoClient
 #* database connections
 #! only one database connection is allowed
 #cloud database connection
-client = MongoClient("mongodb+srv://shawnjumawan:vHQmZ4bOyYgQOCyP@shawncluster.ywjvagz.mongodb.net/test")
+client = MongoClient("mongodb+srv://shawnjumawan:Dec302001@shawncluster.ywjvagz.mongodb.net/test")
 #local database
 #client = MongoClient("mongodb://localhost:27017/")
 db = client['AMSDatabase']
@@ -79,6 +79,7 @@ if __name__ == '__main__':
     os.system('cls')
 
     while True:
+        os.system('cls')
         patient = input("Enter patient's name: ")
         check = dataset.find_one({'name': patient})
 
