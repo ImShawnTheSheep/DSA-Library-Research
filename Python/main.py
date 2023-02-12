@@ -3,7 +3,7 @@ from pymongo import MongoClient
 
 #* database connections
 #! only one database connection is allowed
-#cloud database connection
+#cloud database connection (guest mode)
 client = MongoClient("mongodb+srv://guest:hbxDZiPTC2rcu8cm@shawncluster.ywjvagz.mongodb.net/?retryWrites=true&w=majority")
 #local database
 #client = MongoClient("mongodb://localhost:27017/")
