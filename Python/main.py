@@ -4,7 +4,7 @@ from pymongo import MongoClient
 #* database connections
 #! only one database connection is allowed
 #cloud database connection
-client = MongoClient("mongodb+srv://shawnjumawan:Dec302001@shawncluster.ywjvagz.mongodb.net/test")
+client = MongoClient("mongodb+srv://guest:hbxDZiPTC2rcu8cm@shawncluster.ywjvagz.mongodb.net/?retryWrites=true&w=majority")
 #local database
 #client = MongoClient("mongodb://localhost:27017/")
 db = client['AMSDatabase']
@@ -96,4 +96,3 @@ if __name__ == '__main__':
             continue
         else:
             break
-            
