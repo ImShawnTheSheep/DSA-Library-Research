@@ -1,9 +1,12 @@
 import os
 from pymongo import MongoClient
 
-#* database connection
-# studData = MongoClient("mongodb+srv://shawnjumawan:vHQmZ4bOyYgQOCyP@shawncluster.ywjvagz.mongodb.net/test")
-client = MongoClient("mongodb://localhost:27017/")
+#* database connections
+#! only one database connection is allowed
+#cloud database connection
+client = MongoClient("mongodb+srv://shawnjumawan:vHQmZ4bOyYgQOCyP@shawncluster.ywjvagz.mongodb.net/test")
+#local database
+#client = MongoClient("mongodb://localhost:27017/")
 db = client['AMSDatabase']
 dataset = db['Dataset']
 
