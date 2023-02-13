@@ -5,8 +5,6 @@ from pymongo import MongoClient
 #! only one database connection is allowed
 #cloud database connection (guest mode)
 client = MongoClient("mongodb+srv://guest:hbxDZiPTC2rcu8cm@shawncluster.ywjvagz.mongodb.net/?retryWrites=true&w=majority")
-#local database
-#client = MongoClient("mongodb://localhost:27017/")
 db = client['AMSDatabase']
 dataset = db['Dataset']
 
@@ -75,6 +73,7 @@ def close_contact(name, location, time_in, time_out):
 
     print("Number of close contacts: ", count)
 
+#* main function
 if __name__ == '__main__':
     os.system('cls')
 
