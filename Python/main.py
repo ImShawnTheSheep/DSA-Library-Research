@@ -47,7 +47,7 @@ def get_patient_info(patient):
         "Name:     ", p.name, "(", p.tag, ")" + '\n',
         "Location: ", p.location + '\n',
         "Date:     ", cursors['date'] + '\n',
-        "Time:     ", p.login, p.logout + '\n'
+        "Time:     ", p.login," - " ,p.logout + '\n'
     )
 
     # calls the function for finding and displaying close contacts
@@ -68,7 +68,7 @@ def close_contact(name, location, time_in, time_out):
                 "Name:     ", cursors['name'], "(", cursors['tag'], ")" + '\n', 
                 "Location: ", cursors['location'] + '\n',
                 "Date:     ", cursors['date'] + '\n',
-                "Time:     ", cursors['login'], cursors['logout'] + '\n'
+                "Time:     ", cursors['login']," - ", cursors['logout'] + '\n'
             )
 
     print("Number of close contacts: ", count)
