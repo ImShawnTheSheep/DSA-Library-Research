@@ -84,7 +84,6 @@ if __name__ == '__main__':
 
         if check is None:
             print("Error: Data does not exist in database\n")
-            os.system('pause')
         else:
             get_patient_info(patient)
 
