@@ -73,7 +73,7 @@ def close_contact(name, location, time_in, time_out):
 
     print("Number of close contacts: ", count)
 
-#* main function
+#* main function .... 
 if __name__ == '__main__':
     os.system('cls')
 
